@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Akash Odedara",
   "license": "ISC",
   "devEngines": {
     "packageManager": {
@@ -31,6 +31,8 @@
     "dotenv": "^17.4.2",
     "drizzle-orm": "^0.45.2",
     "express": "^5.2.1",
-    "pg": "^8.21.0"
+    "pg": "^8.21.0",
+    "postgres": "^3.4.9",
+    "zod": "^4.4.3"
   }
 }
